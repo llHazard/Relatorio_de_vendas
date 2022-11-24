@@ -7,7 +7,7 @@ function Header() {
         <header>
             <div className="dsmeta-logo-container">
                 <img src={logo} alt="DSMeta" />
-                <h1>DSMeta</h1>
+                <h1>Controle de vendas</h1>
                 <p>
                     Desenvolvido por
                     <a href="https://www.instagram.com/devsuperior.ig">@feliperodriguesr_</a>
